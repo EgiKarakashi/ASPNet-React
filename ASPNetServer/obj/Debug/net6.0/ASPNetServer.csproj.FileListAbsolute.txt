@@ -51,3 +51,4 @@ C:\Users\Egi\Desktop\React+.NET\aspnetserver\ASPNetServer\bin\Debug\net6.0\runti
 C:\Users\Egi\Desktop\React+.NET\aspnetserver\ASPNetServer\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\Egi\Desktop\React+.NET\aspnetserver\ASPNetServer\bin\Debug\net6.0\Humanizer.dll
 C:\Users\Egi\Desktop\React+.NET\aspnetserver\ASPNetServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Egi\Desktop\React+.NET\aspnetserver\ASPNetServer\bin\Debug\net6.0\Data\AppDB.db
