@@ -11,7 +11,7 @@ builder.Services.AddCors(options =>
             builder
                 .AllowAnyMethod()
                 .AllowAnyHeader()
-                .WithOrigins("http://localhost:3000", "https://appname.azurestaticapps.net");
+                .WithOrigins("http://localhost:3000", "https://ashy-plant-0a630ac03.1.azurestaticapps.net");
         });
 });
 
