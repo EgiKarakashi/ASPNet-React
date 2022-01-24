@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "G37vxB04BwT7OxJImfc+PZ2xfQPKpAf8vXIS0DaHJq0=",
+  "Source": "ASPNetServer",
+  "BasePath": "_content/ASPNetServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
